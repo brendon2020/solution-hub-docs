@@ -1,7 +1,7 @@
 ---
-layout: page
-title: ADD FILE DEMO
-nav_order: 6
+layout: "page"
+title: add file demo
+nav_order: 1
 parent: About Solution Hub
 ---
 
